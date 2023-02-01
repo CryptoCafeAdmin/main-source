@@ -2,7 +2,7 @@
   "name": "sushiswap-interface",
   "version": "1.0.0",
   "private": true,
-  "scripts": {
+  "scripts": { 
     "analyze": "ANALYZE=true yarn build && serve .next -n",
     "build": "yarn lingui && next build",
     "circular": "madge --circular src --extensions ts,tsx,js,jsx",
