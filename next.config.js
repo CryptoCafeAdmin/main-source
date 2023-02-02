@@ -48,10 +48,10 @@ const nextConfig = {
   //   runtimeCaching,
   //   disable: process.env.NODE_ENV === 'development',
   // },
-  images: {
-    loader: 'cloudinary',
-    path: 'https://res.cloudinary.com/sushi-cdn/image/fetch/',
-  },
+  //images: {
+  //  loader: 'cloudinary',
+  //  path: 'https://res.cloudinary.com/sushi-cdn/image/fetch/',
+  //},
   async redirects() {
     return [
       {
