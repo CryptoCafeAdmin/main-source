@@ -133,7 +133,7 @@ const Graph: FC<GraphProps> = ({ data, stroke, strokeWidth, width, height, setSe
 
 const LineGraph: FC<LineGraphProps> = ({
   data,
-  stroke = { solid: '#0993EC' },
+  stroke = { solid: '#630094' },
   strokeWidth = 1.5,
   setSelectedIndex,
 }) => {

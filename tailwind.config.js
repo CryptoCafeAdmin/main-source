@@ -26,8 +26,8 @@ module.exports = {
           r: 'to right',
         },
         colors: {
-          'blue-pink': ['#0993ecBF', '#f338c3BF'],
-          'blue-pink-hover': ['#0993ec99', '#f338c399'],
+          'blue-pink': ['#630094BF', '#f338c3BF'],
+          'blue-pink-hover': ['#63009499', '#f338c399'],
           'pink-red-light-brown': ['#FE5A75', '#FEC464'],
         },
         background: {
@@ -60,13 +60,13 @@ module.exports = {
           900: '#2E0E44',
         },
         blue: {
-          DEFAULT: '#0993EC',
+          DEFAULT: '#630094',
           50: '#B1DEFC',
           100: '#9DD6FB',
           200: '#76C6FA',
           300: '#4EB6F8',
           400: '#27A5F7',
-          500: '#0993EC',
+          500: '#630094',
           600: '#0771B6',
           700: '#055080',
           800: '#032E4A',
@@ -125,8 +125,8 @@ module.exports = {
           900: '#855D00',
         },
 
-        'opaque-blue': '#0993ec80',
-        'transparent-blue': '#0993EC2A',
+        'opaque-blue': '#63009480',
+        'transparent-blue': '#6300942A',
         'transparent-pink': '#FE5A752A',
         'opaque-pink': '#f338c380',
         'pink-red': {
