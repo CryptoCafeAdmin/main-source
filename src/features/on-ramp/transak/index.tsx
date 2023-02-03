@@ -35,7 +35,7 @@ export default function Buy() {
       // email: '', // Your customer's email address
       redirectURL: '',
       hostURL: window.location.origin,
-      themeColor: '#010866',
+      themeColor: '#00032e',
       widgetHeight: '680px',
       widgetWidth: '100%',
       // @ts-ignore TYPE NEEDS FIXING
