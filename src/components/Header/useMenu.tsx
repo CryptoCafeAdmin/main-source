@@ -1,4 +1,4 @@
-import { BeakerIcon, GlobeIcon, SwitchVerticalIcon, TrendingUpIcon } from '@heroicons/react/outline'
+import { BeakerIcon, SwitchVerticalIcon, TrendingUpIcon } from '@heroicons/react/outline'
 import { t } from '@lingui/macro'
 import { useLingui } from '@lingui/react'
 import { ChainId, SUSHI_ADDRESS } from '@sushiswap/core-sdk'
