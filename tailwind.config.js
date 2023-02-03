@@ -31,7 +31,7 @@ module.exports = {
           'pink-red-light-brown': ['#FE5A75', '#FEC464'],
         },
         background: {
-          'dark-1000': '#0D0415',
+          'dark-1000': '#010866',
           'dark-900': '#161522BF',
           'dark-800': '#202231',
           'dark-pink-red': '#4e3034',
@@ -157,7 +157,7 @@ module.exports = {
         },
         'dark-pink': '#221825',
         'dark-blue': '#0F182A',
-        'dark-1000': '#0D0415',
+        'dark-1000': '#010866',
         'dark-900': '#161522',
         'dark-850': '#1d1e2c',
         'dark-800': '#202231',
