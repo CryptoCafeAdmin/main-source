@@ -26,7 +26,7 @@ const Footer = () => {
                 <Image src="https://shushi-2-rose.vercel.app/images/logo.svg" alt="Sushi logo" width="28px" height="28px" />
               </div>
               <Typography variant="h2" weight={700} className="tracking-[0.02em] scale-y-90 hover:text-high-emphesis">
-                Sushi
+                Crypto Cafe
               </Typography>
             </div>
             <Typography variant="xs" className="text-low-emphesis">
