@@ -16,10 +16,10 @@ const KashiPage: FC = () => {
       <TridentHeader className="sm:!flex-row justify-between items-center" pattern="bg-bubble">
         <div>
           <Typography variant="h2" className="text-high-emphesis" weight={700}>
-            {i18n._(t`Kashi Markets`)}
+            {i18n._(t`The Cafe Markets`)}
           </Typography>
           <Typography variant="sm" weight={400}>
-            {i18n._(t`Lend and borrow assets in Kashi isolated risk markets`)}
+            {i18n._(t`Lend and borrow assets in The Cafe isolated risk markets`)}
           </Typography>
         </div>
         <div className="flex gap-3">

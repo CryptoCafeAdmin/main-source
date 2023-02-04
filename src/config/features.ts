@@ -11,7 +11,7 @@ const features: FeatureMap = {
     Feature.KASHI,
     Feature.ANALYTICS,
     Feature.STAKING,
-    Feature.MISO,
+    Feature.,
     Feature.MEOWSHI,
     Feature.INARI,
     Feature.VESTING,

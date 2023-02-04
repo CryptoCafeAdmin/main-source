@@ -14,7 +14,7 @@ export const KashiMarketProvider: FC<KashiMarketContext> = ({ market, children }
 export const useKashiMarket = () => {
   const context = useContext(Context)
   if (!context) {
-    throw new Error('Hook can only be used inside Kashi Market Context')
+    throw new Error('Hook can only be used inside The Cafe Market Context')
   }
 
   return context

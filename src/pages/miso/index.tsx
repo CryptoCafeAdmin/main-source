@@ -43,10 +43,10 @@ const Miso = () => {
         <div className="flex flex-col justify-between gap-8 lg:flex-row">
           <div className="flex flex-col">
             <Typography variant="hero" weight={700} className="text-white">
-              {i18n._(t`MISO`)}
+              {i18n._(t`Barista`)}
             </Typography>
             <Typography weight={700}>
-              {i18n._(t`Minimum Initial SUSHI Offering permissionless token launch pad. Due dilligence is required.`)}
+              {i18n._(t`Minimum Initial Cafe Offering permissionless token launch pad. Due dilligence is required.`)}
             </Typography>
           </div>
           {chainId && featureEnabled(Feature.MISO, chainId) && (

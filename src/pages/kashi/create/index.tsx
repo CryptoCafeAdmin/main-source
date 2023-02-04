@@ -154,7 +154,7 @@ export default function Create() {
 
       addTransaction(tx, {
         // @ts-ignore TYPE NEEDS FIXING
-        summary: `Add Kashi market ${currencies[Field.ASSET].symbol}/${currencies[Field.COLLATERAL].symbol} Chainlink`,
+        summary: `Add the swap market ${currencies[Field.ASSET].symbol}/${currencies[Field.COLLATERAL].symbol} Chainlink`,
       })
 
       router.push('/lend')
