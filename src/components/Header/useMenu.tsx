@@ -173,7 +173,7 @@ const useMenu: UseMenu = () => {
     if (featureEnabled(Feature.KASHI, chainId)) {
       menu.push({
         key: 'kashi',
-        title: i18n._(t`Kashi`),
+        title: i18n._(t`The Cafe`),
         icon: <SwitchVerticalIcon width={20} className="rotate-90 filter" />,
         items: [
           {
@@ -193,7 +193,7 @@ const useMenu: UseMenu = () => {
     if (featureEnabled(Feature.MISO, chainId)) {
       const misoMenu = {
         key: 'miso',
-        title: i18n._(t`MISO`),
+        title: i18n._(t`Barista`),
         icon: <RocketIcon width={20} />,
         items: [
           {
@@ -261,9 +261,9 @@ const useMenu: UseMenu = () => {
           link: `/analytics`,
         },
         {
-          key: 'xswap',
+          key: 'xsushi',
           title: 'xSWAP',
-          link: '/analytics/xswap',
+          link: '/analytics/xsushi',
         },
         {
           key: 'tokens',

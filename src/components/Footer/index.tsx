@@ -57,17 +57,16 @@ const Footer = () => {
                 {i18n._(t`Liquidity Pools`)}
               </Typography>
             </Link>
-            <Link href="/The Cafe" passHref={true}>
+            <Link href="/kashi" passHref={true}>
               <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
                 {i18n._(t`The Cafe Lending`)}
               </Typography>
             </Link>
-            <Link href="/Barista" passHref={true}>
+            <Link href="/miso" passHref={true}>
               <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
                 {i18n._(t`Barista Launchpad`)}
               </Typography>
             </Link>
-            
             <Link href="/tools" passHref={true}>
               <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
                 {i18n._(t`Tools`)}
