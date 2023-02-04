@@ -34,16 +34,16 @@ const Footer = () => {
               us!`)}
             </Typography>
             <div className="flex items-center gap-4">
-              <a href="https://twitter.com/sushiswap" target="_blank" rel="noreferrer">
+              <a href="https://twitter.com/CryptoCafeEx" target="_blank" rel="noreferrer">
                 <TwitterIcon width={16} className="text-low-emphesis" />
               </a>
-              <a href="https://instagram.com/instasushiswap" target="_blank" rel="noreferrer">
+              <a href="https://instagram.com/cryptocafeexchange" target="_blank" rel="noreferrer">
                 <InstagramIcon width={16} className="text-low-emphesis" />
               </a>
               <a href="https://medium.com/sushiswap-org" target="_blank" rel="noreferrer">
                 <MediumIcon width={16} className="text-low-emphesis" />
               </a>
-              <a href="https://discord.gg/NVPXN4e" target="_blank" rel="noreferrer">
+              <a href="https://discord.gg/KNFzWTvPud" target="_blank" rel="noreferrer">
                 <DiscordIcon width={16} className="text-low-emphesis" />
               </a>
             </div>
@@ -87,12 +87,12 @@ const Footer = () => {
                 {i18n._(t`What is Sushi?`)}
               </Typography>
             </a>
-            <a href="https://discord.gg/NVPXN4e" target="_blank" rel="noreferrer">
+            <a href="https://discord.gg/KNFzWTvPud" target="_blank" rel="noreferrer">
               <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
                 {i18n._(t`Ask on Discord`)}
               </Typography>
             </a>
-            <a href="https://twitter.com/sushiswap" target="_blank" rel="noreferrer">
+            <a href="https://twitter.com/CryptoCafeEx" target="_blank" rel="noreferrer">
               <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
                 {i18n._(t`Ask on Twitter`)}
               </Typography>
