@@ -38,7 +38,7 @@ const Miso = () => {
 
   return (
     <>
-      <NextSeo title="MISO Marketplace" />
+      <NextSeo title="Barista Marketplace" />
       <MisoHeader>
         <div className="flex flex-col justify-between gap-8 lg:flex-row">
           <div className="flex flex-col">
