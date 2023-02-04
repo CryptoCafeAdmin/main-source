@@ -82,11 +82,7 @@ const Footer = () => {
             <Typography variant="xs" weight={700} className="mt-2.5 hover:text-high-emphesis">
               {i18n._(t`Help`)}
             </Typography>
-            <a href="https://docs.sushi.com" target="_blank" rel="noreferrer">
-              <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
-                {i18n._(t`What is Sushi?`)}
-              </Typography>
-            </a>
+            
             <a href="https://discord.gg/KNFzWTvPud" target="_blank" rel="noreferrer">
               <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
                 {i18n._(t`Ask on Discord`)}
@@ -110,31 +106,14 @@ const Footer = () => {
               </Typography>
             </a>
             
-            <a href="https://docs.openmev.org" target="_blank" rel="noreferrer">
-              <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
-                {i18n._(t`SushiGuard`)}
-              </Typography>
-            </a>
+
           </div>
           
           <div className="flex flex-col gap-1 text-right">
             <Typography variant="xs" weight={700} className="mt-2.5 hover:text-high-emphesis">
               {i18n._(t`Protocol`)}
             </Typography>
-            <a href="https://rbieu62gj0f.typeform.com/to/KkrPkOFe" target="_blank" rel="noreferrer">
-              <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
-                {i18n._(t`Apply for Onsen`)}
-              </Typography>
-            </a>
-            <a
-              href="https://docs.google.com/forms/d/e/1FAIpQLSecahmrXOJytn-wOUB8tEfONzOTP4zjKqz3sIzNzDDs9J8zcA/viewform"
-              target="_blank"
-              rel="noreferrer"
-            >
-              <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
-                {i18n._(t`Apply for Miso`)}
-              </Typography>
-            </a>
+            
 
             <Link href="/vesting" passHref={true}>
               <Typography variant="xs" className="text-low-emphesis hover:text-high-emphesis">
