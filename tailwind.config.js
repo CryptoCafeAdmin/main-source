@@ -32,7 +32,7 @@ module.exports = {
         },
         background: {
           'dark-1000': '#00032e',
-          'dark-900': '##170017BF',
+          'dark-900': '#170017BF',
           'dark-800': '#170017',
           'dark-pink-red': '#4e3034',
         },
@@ -158,7 +158,7 @@ module.exports = {
         'dark-pink': '#221825',
         'dark-blue': '#0F182A',
         'dark-1000': '#00032e',
-        'dark-900': '##170017',
+        'dark-900': '#170017',
         'dark-850': '#1d1e2c',
         'dark-800': '#170017',
         'dark-700': '#2E3348',
