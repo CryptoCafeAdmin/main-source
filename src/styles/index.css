@@ -32,7 +32,7 @@ body {
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: var(--primary);
+  background-image: linear-gradient(to right,#c71361, #1402ed);
   color: var(--text-primary);
 }
 
@@ -102,4 +102,7 @@ input[type=datetime-local]::-webkit-calendar-picker-indicator {
 
 input[type=range]::-webkit-slider-thumb {
   -webkit-appearance: none;
+}
+.text-low-emphesis{
+  color:rgb(179 179 179) !important;
 }
