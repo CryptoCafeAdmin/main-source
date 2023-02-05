@@ -1,5 +1,5 @@
 const SEO = {
-  defaultTitle: 'Sushi',
+  defaultTitle: 'Crypto Cafe',
   titleTemplate: '%s | Sushi',
   description: 'Swap, yield, lend, borrow, leverage, limit, launch all on one community driven ecosystem',
   openGraph: {
